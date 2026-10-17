@@ -1,16 +1,16 @@
 {
-  "version": "0.0.2",
-  "version_code": 2,
-  "build_code": "a518662",
-  "full_version": "v0.0.2-android",
+  "version": "0.0.3",
+  "version_code": 3,
+  "build_code": "9bfd1b5",
+  "full_version": "v0.0.3-android",
   "environment": "pro",
   "changelog": "\n- La app avisa cuando hay una versión nueva y la descarga e instala sin salir de ella.\n- Nuevo «Acerca de» en el menú, con la versión instalada y «Buscar actualizaciones».",
-  "release_url": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.2-android/Skynet-Android-v0.0.2-arm64-v8a.apk",
+  "release_url": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.3-android/Skynet-Android-v0.0.3-arm64-v8a.apk",
   "release_urls": {
-    "arm64-v8a": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.2-android/Skynet-Android-v0.0.2-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.2-android/Skynet-Android-v0.0.2-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.2-android/Skynet-Android-v0.0.2-x86_64.apk",
-    "universal": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.2-android/Skynet-Android-v0.0.2-universal.apk"
+    "arm64-v8a": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.3-android/Skynet-Android-v0.0.3-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.3-android/Skynet-Android-v0.0.3-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.3-android/Skynet-Android-v0.0.3-x86_64.apk",
+    "universal": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.3-android/Skynet-Android-v0.0.3-universal.apk"
   },
   "all_releases_url": "https://github.com/Softnet-Releases/Skynet_Portal/releases",
   "date": "2026-10-17",
