@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "version_code": 1,
+  "build_code": "fe23d03",
+  "full_version": "v0.0.1-android",
+  "environment": "pro",
+  "changelog": "\n- La app avisa cuando hay una versión nueva y la descarga e instala sin salir de ella.\n- Nuevo «Acerca de» en el menú, con la versión instalada y «Buscar actualizaciones».",
+  "release_url": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.1-android/Skynet-Android-v0.0.1-arm64-v8a.apk",
+  "release_urls": {
+    "arm64-v8a": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.1-android/Skynet-Android-v0.0.1-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.1-android/Skynet-Android-v0.0.1-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.1-android/Skynet-Android-v0.0.1-x86_64.apk",
+    "universal": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.1-android/Skynet-Android-v0.0.1-universal.apk"
+  },
+  "all_releases_url": "https://github.com/Softnet-Releases/Skynet_Portal/releases",
+  "date": "2026-10-17",
+  "required": false,
+  "min_version": "0.0.1"
+}
