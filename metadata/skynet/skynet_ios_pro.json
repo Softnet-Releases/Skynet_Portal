@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "version_code": 1,
+  "build_code": "3619727",
+  "full_version": "v0.0.1-ios",
+  "environment": "pro",
+  "changelog": "\n- La app avisa cuando hay una versión nueva y la descarga e instala sin salir de ella.\n- Nuevo «Acerca de» en el menú, con la versión instalada y «Buscar actualizaciones».",
+  "release_url": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.1-ios/Skynet-iOS-v0.0.1.ipa",
+  "release_urls": {
+    "ios": "https://github.com/Softnet-Releases/Skynet_Portal/releases/download/v0.0.1-ios/Skynet-iOS-v0.0.1.ipa"
+  },
+  "all_releases_url": "https://github.com/Softnet-Releases/Skynet_Portal/releases",
+  "date": "2026-11-02",
+  "required": false,
+  "min_version": "0.0.1"
+}
